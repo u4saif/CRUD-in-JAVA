@@ -1,4 +1,4 @@
-
+POSTMEN API LINK:- https://documenter.getpostman.com/view/20770503/2sA2r83Q4j
 
 SQL TABLES  for Authentication and autherization 
 
